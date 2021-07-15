@@ -24,7 +24,7 @@
   "dependencies": {
     "@ensdomains/buffer": "^0.0.10",
     "@ensdomains/dnssec-oracle": "^0.2.0",
-    "@ensdomains/ens": "^0.5.0",
+    "@ensdomains/ens": "^0.6.2",
     "@ensdomains/resolver": "^0.3.0",
     "eth-ens-namehash": "^2.0.8"
   }
