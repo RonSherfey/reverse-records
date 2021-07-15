@@ -25,10 +25,10 @@
     testrpc "0.0.1"
     web3-utils "^1.0.0-beta.31"
 
-"@ensdomains/ens@^0.5.0":
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/@ensdomains/ens/-/ens-0.5.0.tgz#ee0ed9f9d789a099506c93d6979f4f0b73dc5944"
-  integrity sha512-brolsVlNc4j1m+9Eyrabrmg6D8xmj321Eeufd9nH2WlEXBqluCKw97kePteROBHuYZM2U7uBDyvgwE4JtWpJkA==
+"@ensdomains/ens@^0.6.2":
+  version "0.6.2"
+  resolved "https://registry.yarnpkg.com/@ensdomains/ens/-/ens-0.6.2.tgz#66090c9290f2386d51cedaa95f3f43ef620033e4"
+  integrity sha512-F3ALgp60HZq3rKqNig7H/rAlBB0zuz4C9q2weCoiPjSW91uvjetXhCGBU2YJCD1tyuKnO/KqTDzUN5Dc8HLlaQ==
   dependencies:
     bluebird "^3.5.2"
     eth-ens-namehash "^2.0.8"
